@@ -7,8 +7,8 @@
 
 [MetaGuard](https://github.com/metaguard) |
 [Main Repo](https://github.com/MetaGuard/MetaGuard) |
-[Developer](https://github.com/VCNinc) |
-[Co-Developer](https://github.com/gonzalo-munillag)
+[Vivek Nair](https://github.com/VCNinc) |
+[Gonzalo Munilla Garrido](https://github.com/gonzalo-munillag)
 
 This repository includes scripts to evaluate the theoretical performance of the differential privacy protections in MetaGuard based on the data collected in the original [MetaData](https://github.com/vcninc/metadata) experiment.
 
