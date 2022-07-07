@@ -1,0 +1,2 @@
+Prediction on refresh rate: 30/30 (100.0%) within 3 Hz
+Prediction on noisy refresh rate: 3/30 (10.0%) within 3 Hz
