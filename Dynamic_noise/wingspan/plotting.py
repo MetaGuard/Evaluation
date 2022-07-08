@@ -50,8 +50,8 @@ def plot():
             part_ax.plot(epsilon_list, [0.03]*len(epsilon_list), c='black')
             part_ax.legend(['Prediction on noisy data', 'Prediction on actual data'])
         if i == 2:
-            # the coef of determination for the prediction on actual data is 0.792
-            part_ax.plot(epsilon_list, [0.792]*len(epsilon_list), c='black')
+            # the coef of determination for the prediction on actual data is 0.669
+            part_ax.plot(epsilon_list, [0.669]*len(epsilon_list), c='black')
             part_ax.legend(['Prediction on noisy data', 'Prediction on actual data'])
         if i == 3:
             # the predicted mean height on actual data is 1.766
