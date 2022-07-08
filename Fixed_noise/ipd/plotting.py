@@ -50,8 +50,8 @@ def plot():
             part_ax.plot(epsilon_list, [0.52]*len(epsilon_list), c='black')
             part_ax.legend(['Prediction on noisy data', 'Prediction on actual data'])
         if i == 2:
-            # the coef of determination for the prediction on actual data is 0.857
-            part_ax.plot(epsilon_list, [0.857]*len(epsilon_list), c='black')
+            # the coef of determination for the prediction on actual data is 0.974
+            part_ax.plot(epsilon_list, [0.974]*len(epsilon_list), c='black')
             part_ax.legend(['Prediction on noisy data', 'Prediction on actual data'])
         if i == 3:
             # the predicted mean ipd on actual data is 63.233 mm
